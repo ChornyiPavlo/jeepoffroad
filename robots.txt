@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow:
+
+
+Sitemap: http://pin-up.jeepoffroadracing.xyz/sitemap.xml
+Host: pin-up.jeepoffroadracing.xyz
